@@ -12,7 +12,7 @@ This folder contains my handwritten notes taken during BrightLearn classes. The 
 - Handwritten class notes (scanned)
 - Examples worked through during lessons
 - Key concepts and explanations from class
-- 
+  
 ## Disclaimer
 These notes are unofficial and are based on live class sessions from BrightLearn.
 They may include copied explanations and examples as written during class
